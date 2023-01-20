@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 20 Jan 2023 10:13:20 at https://ui-themez.smartinnovates.net/items/wavo/index-2-dark.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ui-themez.smartinnovates.net/items/wavo/index-2-dark.html -O1 "E:\Templates\wavo(al-dana)" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:14:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ui-themez.smartinnovates.net/items/wavo/img/portfolio/mas/01.jpg (from https://ui-themez.smartinnovates.net/items/wavo/portfolio-3column-dark.html)
+10:14:08	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/wavo/fonts/ionicons.svg?v=2.0.0 (from https://ui-themez.smartinnovates.net/items/wavo/css/plugins/ionicons.min.css)
+10:14:08	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/wavo/fonts/fa-brands-400.svg (from https://ui-themez.smartinnovates.net/items/wavo/css/plugins/fontawesome-all.min.css)
+10:14:08	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/wavo/fonts/fa-regular-400.svg (from https://ui-themez.smartinnovates.net/items/wavo/css/plugins/fontawesome-all.min.css)
+10:14:08	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/wavo/fonts/fa-solid-900.svg (from https://ui-themez.smartinnovates.net/items/wavo/css/plugins/fontawesome-all.min.css)
+10:14:08	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/wavo/css/images/close.png (from https://ui-themez.smartinnovates.net/items/wavo/css/plugins/YouTubePopUp.css)
+10:14:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ui-themez.smartinnovates.net/items/wavo/img/portfolio/project1/2.jpg (from https://ui-themez.smartinnovates.net/items/wavo/project-details-dark.html)
+10:14:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ui-themez.smartinnovates.net/items/wavo/img/portfolio/project1/6.jpg (from https://ui-themez.smartinnovates.net/items/wavo/project-details-dark.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 154 links scanned, 145 files written (11813922 bytes overall) [10326672 bytes received at 206533 bytes/sec], 2459590 bytes transferred using HTTP compression in 56 files, ratio 28%, 22.0 requests per connection
+(5 errors, 3 warnings, 0 messages)
