@@ -350,7 +350,7 @@ a:hover {
 }
 
 .loading-text.isdone {
-  top: 40%;
+  top: 45%;
   opacity: 0;
   -webkit-transition: all 0.8s cubic-bezier(0.19, 1, 0.22, 1);
   -o-transition: all 0.8s cubic-bezier(0.19, 1, 0.22, 1);
