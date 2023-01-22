@@ -242,7 +242,7 @@ a:hover {
 
 /* ====================== [ End Helper Classes ] ====================== */
 /* ====================== [ 03 Start Preloader ] ====================== */
-/* .pace {
+ .pace {
   pointer-events: none;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -263,9 +263,9 @@ a:hover {
   -webkit-transition: all 1s;
   -o-transition: all 1s;
   transition: all 1s;
-} */
+} 
 
-/* .pace .pace-progress {
+ .pace .pace-progress {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
   max-width: 400px;
@@ -278,16 +278,16 @@ a:hover {
   height: 100%;
   width: 100%;
   background: #fff;
-} */
+} 
 
-/* .pace.pace-inactive {
+ .pace.pace-inactive {
   width: 100vw;
   opacity: 0;
 }
 
 .pace.pace-inactive .pace-progress {
   max-width: 100vw;
-} */
+} 
 
 #preloader {
   width: 100%;

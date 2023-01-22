@@ -556,11 +556,11 @@ function hasScrolled() {
 
 /* ===============================  Preloader page  =============================== */
 
-// paceOptions = {
-//     ajax: true,
-//     document: true,
-//     eventLag: false
-// };
+paceOptions = {
+    ajax: true,
+    document: true,
+    eventLag: false
+};
 
 Pace.on('done', function () {
     $('#preloader').addClass("isdone");
